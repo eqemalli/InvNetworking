@@ -1,2 +1,3 @@
 # InvNetworking
-swift network library
+
+A description of this package.
